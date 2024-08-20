@@ -1,11 +1,11 @@
 /* theme color */
 :root {
-    --section-background-color: #0d0e10;
-    --background-color: #302f2b;
+    --section-background-color: #26142f;
+    --background-color: #3a1d48;
     --nav-text-color: #757664;
     --highlight-color: #c0b7a8;
     --button-text-color: #555648;
-    --text-color: #eee2d4;
+    --text-color: #b1e0db;
 }
 
 html {
@@ -73,7 +73,7 @@ nav svg:hover {
 
 nav a {
     font-family: 'Share Tech Mono', monospace, 'Noto Sans TC', sans-serif;
-    text-align: center;
+    text-align: left;
     color: var(--nav-text-color);
 }
 nav button{
@@ -106,7 +106,7 @@ body {
 
 banner {
     background-color: var(--section-background-color);
-    text-align: center;
+    text-align: left;
     padding: 10px 0;
 }
 
@@ -131,6 +131,6 @@ section {
 /* Footer styles */
 footer {
     background-color: var(--section-background-color);
-    text-align: center;
+    text-align: left;
     padding: 10px 0;
 }

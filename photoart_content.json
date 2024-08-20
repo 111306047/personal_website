@@ -1,26 +1,26 @@
 {
-    "GOLDFISH": {
-        "dirname": "GOLDFISH",
-        "title": "GOLDFISH",
-        "date": "09-03-2024",
-        "info": "Eternal Remembrance through Burning Paper and Fading Memories",
-        "description": "In Taiwanese folklore, burning paper items can transmit objects to deceased relatives, allowing them to live eternally together. Origami, beyond its religious functions, strengthens familial bonds and heals sorrow. Conversely, as memory declines, recognizing people becomes harder, and familiar faces may fade away, akin to the 'goldfish brain' phenomenon. This work prints photos of the artist from childhood to adulthood on paper money, compiling them into a photo book. Viewers tear out pages, fold them into fish, and burn them, symbolizing the fading memory of loved ones. The burning fish carry the artist's image to the other side, aiming for eternal remembrance.",
+    "SUNSET": {
+        "dirname": "SUNSET",
+        "title": "Sunset",
+        "date": "04-09-2024",
+        "info": "\u5c0f\u7409\u7403\u843d\u65e5\u4ead",
+        "description": "\u6cbf\u8457\u6d77\u5cb8\u7dda\u9a0e\u8173\u8e0f\u8eca\uff0c\u6355\u6349\u521d\u590f\u7684\u65e5\u843d",
         "tags": [
             "photobook",
-            "Joss paper Origami",
-            "memory"
+            "travel",
+            "scenary"
         ]
     },
-    "ASYNCCOMMV1": {
-        "dirname": "ASYNCCOMMV1",
-        "title": "Asynchronous Communication Vol.1",
-        "date": "09-07-2023",
-        "info": "Exploring Asynchronous Communication through Handmade Photography",
-        "description": "This book presents online chat room communication through handmade photography. Unlike face-to-face conversations, online chats often lack continuity, leading to communication breakdowns without facial cues. Created by authors from Taiwan(Yu-Lin Tsai) and Switzerland(Yi-Kai Chen), the book documents a month-long exchange solely through photos. Viewers decide the conversation's pace, achieving a unique asynchronous communication experience.",
+    "meteor": {
+        "dirname": "meteor",
+        "title": "\u6d41\u661f",
+        "date": "11-08-2023",
+        "info": "\u4e03\u661f\u5c71\u4e0a\u770b\u65e5\u843d\u5e78\u904b\u5730\u6355\u6349\u5230\u6d41\u661f",
+        "description": "\u4f86\u4e0d\u53ca\u8a31\u9858",
         "tags": [
             "photobook",
-            "online chat",
-            "jet lag"
+            "digital-art",
+            "Travel"
         ]
     },
     "UNKNOWNCALLERID": {

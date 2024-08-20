@@ -1,14 +1,26 @@
 {
-    "GOLDFISH": {
-        "dirname": "GOLDFISH",
-        "title": "GOLDFISH",
-        "date": "09-03-2024",
-        "info": "Eternal Remembrance through Burning Paper and Fading Memories",
-        "description": "In Taiwanese folklore, burning paper items can transmit objects to deceased relatives, allowing them to live eternally together. Origami, beyond its religious functions, strengthens familial bonds and heals sorrow. Conversely, as memory declines, recognizing people becomes harder, and familiar faces may fade away, akin to the 'goldfish brain' phenomenon. This work prints photos of the artist from childhood to adulthood on paper money, compiling them into a photo book. Viewers tear out pages, fold them into fish, and burn them, symbolizing the fading memory of loved ones. The burning fish carry the artist's image to the other side, aiming for eternal remembrance.",
+    "Sky": {
+        "dirname": "Sky",
+        "title": "\u65e5\u6708\u6f6d\u99ac\u8def\u908a",
+        "date": "11-20-2023",
+        "info": "\u65e5\u7cfb\u611f\u85cd\u7070\u8272\u8abf",
+        "description": "\u96fb\u7dda\u687f\u3001\u8def\u724c\u8207\u85cd\u5929--\u5bcc\u58ebcc\u6ffe\u93e1\u7684\u7d55\u914d",
+        "tags": [
+            "digital-art",
+            "Travel",
+            "Street"
+        ]
+    },
+    "meteor": {
+        "dirname": "meteor",
+        "title": "\u6d41\u661f",
+        "date": "11-08-2023",
+        "info": "\u4e03\u661f\u5c71\u4e0a\u770b\u65e5\u843d\u5e78\u904b\u5730\u6355\u6349\u5230\u6d41\u661f",
+        "description": "\u4f86\u4e0d\u53ca\u8a31\u9858",
         "tags": [
             "photobook",
-            "Joss paper Origami",
-            "memory"
+            "digital-art",
+            "Travel"
         ]
     },
     "UNKNOWNCALLERID": {
@@ -23,6 +35,18 @@
             "map"
         ]
     },
+    "Miscanthus": {
+        "dirname": "Miscanthus",
+        "title": "\u967d\u660e\u5c71\u4e0a\u7684\u8292\u8349",
+        "date": "11-08-2023",
+        "info": "11\u6708\u767b\u967d\u660e\u5c71\u51b7\u6c34\u5751\u770b\u8292\u8349\uff0c\u5c71\u4e0a\u767d\u832b\u832b\u4e00\u7247\uff0c\u8292\u8349\u6bd4\u6211\u9084\u9ad8\uff1f\uff3f\uff1f",
+        "description": "\u672c\u4f86\u4ee5\u70ba11\u6708\u79cb\u9ad8\u6c23\u723d\uff0c\u4f46\u662f\u90a3\u5929\u722c\u5c71\u9084\u662f\u5f88\u71b1\uff0c\u5728\u8def\u908a\u64bf\u4e86\u4e00\u6839\u6a39\u679d\u7576\u722c\u5c71\u6756",
+        "tags": [
+            "digital-art",
+            "Nature",
+            "Scenary"
+        ]
+    },
     "CCC": {
         "dirname": "CCC",
         "title": "Crowd Cloud Crowded",
@@ -35,16 +59,16 @@
             "review"
         ]
     },
-    "ASYNCCOMMV1": {
-        "dirname": "ASYNCCOMMV1",
-        "title": "Asynchronous Communication Vol.1",
-        "date": "09-07-2023",
-        "info": "Exploring Asynchronous Communication through Handmade Photography",
-        "description": "This book presents online chat room communication through handmade photography. Unlike face-to-face conversations, online chats often lack continuity, leading to communication breakdowns without facial cues. Created by authors from Taiwan(Yu-Lin Tsai) and Switzerland(Yi-Kai Chen), the book documents a month-long exchange solely through photos. Viewers decide the conversation's pace, achieving a unique asynchronous communication experience.",
+    "SUNSET": {
+        "dirname": "SUNSET",
+        "title": "Sunset",
+        "date": "04-09-2024",
+        "info": "\u5c0f\u7409\u7403\u843d\u65e5\u4ead",
+        "description": "\u6cbf\u8457\u6d77\u5cb8\u7dda\u9a0e\u8173\u8e0f\u8eca\uff0c\u6355\u6349\u521d\u590f\u7684\u65e5\u843d",
         "tags": [
             "photobook",
-            "online chat",
-            "jet lag"
+            "travel",
+            "scenary"
         ]
     },
     "THE3RDCOLLAPSE": {
@@ -57,30 +81,6 @@
             "photobook",
             "material decay",
             "film"
-        ]
-    },
-    "ANALOGRANDOMGENERATOR": {
-        "dirname": "ANALOGRANDOMGENERATOR",
-        "title": "Analog Random Generator",
-        "date": "12-02-2023",
-        "info": "Exploring Analog Randomness through Dust Simulation",
-        "description": "This work uses dust to mimic analog randomness, transforming digital noise into physical forms. While computer-generated randomness isn't truly random, this device simulates genuine randomness with dust. It also ties to the Infinite Monkey Theorem, suggesting that over time, it can generate any image, including photos from each piece exhibited.",
-        "tags": [
-            "digital-art",
-            "RNG",
-            "dust"
-        ]
-    },
-    "GRADIENT_SCOTOMA": {
-        "dirname": "GRADIENT_SCOTOMA",
-        "title": "Gradient Scotoma",
-        "date": "07-18-2023",
-        "info": "Mutual Observation from the Perspectives of AI and Art",
-        "description": "As a collaborative project between AI engineer Yu-Lin Tsai and artist Mu Duan, this exhibition delves into the concept of artificial intelligence as a black box, employing metaphors of gradients and blind spots. Through the intersection of technology and art, the creators offer a unique perspective on the relationship between humans and AI, guiding viewers to explore the convergence of technology and culture.",
-        "tags": [
-            "digital-art",
-            "AI",
-            "black-box characteristic"
         ]
     }
 }
